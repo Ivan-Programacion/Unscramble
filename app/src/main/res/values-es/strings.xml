@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="skip_button">Pasar</string>
+    <string name="submit_button">Enviar</string>
+    <string name="instruction">Adivina la palabra utilizando todas las letras.</string>
+    <string name="score">"Puntuación: "</string>
+</resources>
