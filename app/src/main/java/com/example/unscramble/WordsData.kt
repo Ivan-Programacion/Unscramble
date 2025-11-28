@@ -1,7 +1,7 @@
 
 
 const val MAX_NO_OF_WORDS = 10
-const val SCORE_INCREASE = 20
+const val SCORE_INCREASE = 50
 
 val allWords: Set<String> =
     setOf(
